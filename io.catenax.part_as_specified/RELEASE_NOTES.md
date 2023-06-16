@@ -5,6 +5,13 @@ All notable changes to this model will be documented in this file.
 
 ## [2.0.0] - 2023-04-24
 ### Added
+- added new optional property partGeometry in order to account for parts which are side-specific
+### Changed
+
+### Removed
+
+## [2.0.0] - 2023-04-24
+### Added
 - added new properties: catenaXId, partClassification, partDescription
 ### Changed
 - changed properties: classification -> itemCategory
